@@ -73,7 +73,7 @@ OnlineBankingAPI/
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/OnlineBankingAPI.git
+   git clone https://github.com/JunaidRepo/SpringBoot-Banking-API.git
    cd OnlineBankingAPI
    ```
 2. **Configure Database** (`src/main/resources/application.properties`)
